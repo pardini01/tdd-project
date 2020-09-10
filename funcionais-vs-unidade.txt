@@ -1,0 +1,5 @@
+Testes funcionais são realizados sob o ponto de vista do usuário,
+enquanto os testes de unidade são do ponto de vista do código
+(métodos, classes). Além disso, testes funcionais exercitam uma
+funcionalidade completa do sistema, já os testes de unidade testam
+pequenas partes independentes.
