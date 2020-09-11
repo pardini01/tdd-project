@@ -1,0 +1,9 @@
+O processo TDD se inicia com uma parte funcional e, em seguida,
+uma parte unitária. Primeiro, escrevemos um teste funcional
+que descreve uma funcionalidade em alto nível. Depois, escre-
+vemos testes unitários intercalados com o código da aplicação,
+sempre tomando passos pequenos, até que os testes unitários
+passem. Caso precisem de refatoração, a fazemos. Ao final
+desse ciclo, o teste funcional também passará, e poderemos re-
+fatorá-lo também. O ciclo se inicia novamente quando quisermos
+adicionar novas funcionalidades.
